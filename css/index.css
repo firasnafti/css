@@ -1,0 +1,69 @@
+img{
+    width: 100%;
+    height: 450px;
+    padding: 0;
+    margin:0;
+    back
+}
+#style{
+    color: blueviolet;
+    font-size: 3em;
+}
+#firas{
+    color:brown;
+    font-size: 2em;
+}
+#let{
+    color: brown;
+    font-size: 2 em;
+}
+
+.square  {
+    width: 600px;
+    height: 300px;
+    display: inline-block;
+    background-color: grey;
+}  
+.square:hover{
+    outline-offset: -6px ;
+    transition: .3s;
+    outline: 6px solid black;
+}
+
+
+#nafty{
+    color:brown;
+    font-size: 2em;
+} 
+#start{
+    color:brown;
+    font-size: 2em;    
+} 
+#now{
+    color:brown;
+    font-size: 2em;   
+}
+#rit{
+    color:brown;
+    font-size: 2em; 
+}
+.square {
+    margin-bottom:5px;
+    vertical-align: top;
+}
+.mou{
+    background-image: url(http://s1.lprs1.fr/images/2018/02/02/7536894_gettyimages-632784164_940x500.jpg);
+    color: white;
+	margin: 0px;
+	font-size:70px;
+	padding-top: 150px;
+	padding-bottom: 1px; 
+	padding-left: 50px;
+	background-size: 100%;
+  box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+  font-family: 'Bree Serif', serif;
+  background-size: cover;
+ 
+}
+    
+  
